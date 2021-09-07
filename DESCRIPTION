@@ -1,0 +1,15 @@
+Package: RSplidaSimulationResults
+Title:  Files Containing SMRD2 Simulation Results and MCMC  Draws
+Version: 0.0.01
+Authors@R: 
+    person(given = "William",
+           family = "Meeker",
+           role = c("aut", "cre"),
+           email = "wqmeeker@iastate.edu",
+           comment = c(ORCID = "0000-0002-5366-0294"))
+Description: Provides files containing SMRD2 simulation results and MCMC  draws that can be used to reproduce, exactly, the results of examples in SMRD2.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
