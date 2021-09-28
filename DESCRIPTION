@@ -1,6 +1,7 @@
 Package: RSplidaSimulationResults
 Title:  Files Containing SMRD2 Simulation Results and MCMC  Draws
-Version: 0.0.01
+Version: 0.1.01
+Date: 2021-09-28
 Authors@R: 
     person(given = "William",
            family = "Meeker",
